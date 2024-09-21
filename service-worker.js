@@ -1,5 +1,5 @@
 // service-worker.js
-const CACHE_NAME = 'hello-world-cache-v1';
+const CACHE_NAME = 'CipherNet';
 const urlsToCache = [
     '/',
     '/index.html',
